@@ -13,6 +13,8 @@
 		</ul>
 	</header>
 	<section id="slider-big">
+		<div id="arrow-left"></div>
+		<div id="arrow-right"></div>
 		<ul class="scroll-content">
 			<li><img src="./img/slide-big/img1.jpg" height="500px"></li>
 			<li><img src="./img/slide-big/img1.jpg" height="500px"></li>

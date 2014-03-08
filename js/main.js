@@ -117,9 +117,33 @@ $(function() {
       $('#slider-big .scroll-content li').append('<span class="no-viewing">');
       $('#slider-big .scroll-content li:eq('+indexImg+') .no-viewing').remove();
 
+      $("#arrow-left").show();
+      $("#arrow-right").show();
+
+      if(indexImg==0) 
+        $("#arrow-left").hide();
+      if(indexImg==scrollContentBig.find('li').size()-1)
+        $("#arrow-right").hide();
     }
   }
 
   centreBig(0);
+
+  $('#arrow-right').click(function(){
+    centreBig(indexImgCenter+1);
+  });
+
+  $('#arrow-left').click(function(){
+    centreBig(indexImgCenter-1);
+  });
+
+  $("body").keydown(function(e) {
+    if(e.which == 37) { // left     
+        centreBig(indexImgCenter-1);
+    }
+    else if(e.which == 39) { // right     
+        centreBig(indexImgCenter+1);
+    }
+  });
 
 });
