@@ -26,6 +26,21 @@ body, ul {
 #slider-big li{
 	float: left;
 	position: relative;
+	text-align: center;
+}
+
+#slider-big li img {
+	max-width: 1000px;
+}
+
+#slider-big li span.no-viewing {
+	background-color: rgba(0,0,0,0.6);
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: 3
 }
 
 #slide-bar {

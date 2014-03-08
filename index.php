@@ -18,7 +18,7 @@
 			<li><img src="./img/slide-big/img1.jpg" height="500px"></li>
 			<li><img src="./img/slide-big/img1.jpg" height="500px"></li>
 			<li><img src="./img/slide-big/img1.jpg" height="500px"></li>
-			<li><img src="./img/slide-big/img1.jpg" height="500px"></li>
+			<li><img src="./img/slide-big/img1.jpg" height="500px" width="1800px"></li>
 			<li><img src="./img/slide-big/img1.jpg" height="500px"></li>
 			<li><img src="./img/slide-big/img1.jpg" height="500px"></li>
 			<li><img src="./img/slide-big/img1.jpg" height="500px"></li>
