@@ -13,18 +13,51 @@
 		</ul>
 	</header>
 	<section id="slider-big">
-		<ul>
-			<li><img src="./img/slide-big/img1.jpg"></li>
-			<li><img src="./img/slide-big/img1.jpg"></li>
-			<li><img src="./img/slide-big/img1.jpg"></li>
-			<li><img src="./img/slide-big/img1.jpg"></li>
+		<ul class="scroll-content">
+			<li><img src="./img/slide-big/img1.jpg" height="500px"></li>
+			<li><img src="./img/slide-big/img1.jpg" height="500px"></li>
+			<li><img src="./img/slide-big/img1.jpg" height="500px"></li>
+			<li><img src="./img/slide-big/img1.jpg" height="500px"></li>
+			<li><img src="./img/slide-big/img1.jpg" height="500px"></li>
+			<li><img src="./img/slide-big/img1.jpg" height="500px"></li>
+			<li><img src="./img/slide-big/img1.jpg" height="500px"></li>
+			<li><img src="./img/slide-big/img1.jpg" height="500px"></li>
+			<li><img src="./img/slide-big/img1.jpg" height="500px"></li>
+			<li><img src="./img/slide-big/img1.jpg" height="500px"></li>
+			<li><img src="./img/slide-big/img1.jpg" height="500px"></li>
+			<li><img src="./img/slide-big/img1.jpg" height="500px"></li>
+			<li><img src="./img/slide-big/img1.jpg" height="500px"></li>
+			<li><img src="./img/slide-big/img1.jpg" height="500px"></li>
+			<li><img src="./img/slide-big/img1.jpg" height="500px"></li>
+			<li><img src="./img/slide-big/img1.jpg" height="500px"></li>
+			<li><img src="./img/slide-big/img1.jpg" height="500px"></li>
+			<li><img src="./img/slide-big/img1.jpg" height="500px"></li>
+			<li><img src="./img/slide-big/img1.jpg" height="500px"></li>
+			<li><img src="./img/slide-big/img1.jpg" height="500px"></li>
 		</ul>
 	</section>
-	<section id="slide-bar">
-	
-	</section>
 	<section id="slider-miniature">
-
+		<section id="slide-bar"></section>
+		<ul class="scroll-content">
+			<li><img src="./img/slide-big/img1.jpg" height="150px"></li>
+			<li><img src="./img/slide-big/img1.jpg" height="150px"></li>
+			<li><img src="./img/slide-big/img1.jpg" height="150px"></li>
+			<li><img src="./img/slide-big/img1.jpg" height="150px"></li>
+			<li><img src="./img/slide-big/img1.jpg" height="150px"></li>
+			<li><img src="./img/slide-big/img1.jpg" height="150px"></li>
+			<li><img src="./img/slide-big/img1.jpg" height="150px"></li>
+			<li><img src="./img/slide-big/img1.jpg" height="150px"></li>
+			<li><img src="./img/slide-big/img1.jpg" height="150px"></li>
+			<li><img src="./img/slide-big/img1.jpg" height="150px"></li>
+			<li><img src="./img/slide-big/img1.jpg" height="150px"></li>
+			<li><img src="./img/slide-big/img1.jpg" height="150px"></li>
+			<li><img src="./img/slide-big/img1.jpg" height="150px"></li>
+			<li><img src="./img/slide-big/img1.jpg" height="150px"></li>
+			<li><img src="./img/slide-big/img1.jpg" height="150px"></li>
+			<li><img src="./img/slide-big/img1.jpg" height="150px"></li>
+			<li><img src="./img/slide-big/img1.jpg" height="150px"></li>
+			<li><img src="./img/slide-big/img1.jpg" height="150px"></li>
+		</ul>
 	</section>
 </body>
 	<script src="./js/jquery.js"></script>
