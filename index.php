@@ -13,7 +13,12 @@
 		</ul>
 	</header>
 	<section id="slider-big">
-
+		<ul>
+			<li><img src="./img/slide-big/img1.jpg"></li>
+			<li><img src="./img/slide-big/img1.jpg"></li>
+			<li><img src="./img/slide-big/img1.jpg"></li>
+			<li><img src="./img/slide-big/img1.jpg"></li>
+		</ul>
 	</section>
 	<section id="slide-bar">
 	
@@ -24,5 +29,7 @@
 </body>
 	<script src="./js/jquery.js"></script>
 	<script src="./js/jquery-ui.js"></script>
+	<script src="./js/jquery.easing.js"></script>
+    <script src="./js/jquery.draggablecarousel.js"></script>
 	<script src="./js/main.js"></script>
 </html>

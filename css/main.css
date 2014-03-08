@@ -17,6 +17,11 @@ body {
 #slider-big {
 	width: 100%;
 	height: 500px;
+	overflow: hidden;
+}
+#slider-big li{
+	display: inline;
+	position: relative;
 }
 
 #slide-bar {
