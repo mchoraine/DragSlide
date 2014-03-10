@@ -52,8 +52,8 @@ body, ul {
 	text-align: center;
 }
 
-#slider-big li img {
-	max-width: 1000px;
+#slider-big li img.panorama {
+	cursor: move;
 }
 
 #slider-big li span.no-viewing {
@@ -86,6 +86,15 @@ body, ul {
 	float:left;
 	position: relative;
 	padding: 0 5px;
+}
+
+#slider-miniature li.current-item img{
+	border: green 2px solid;
+}
+
+#slider-miniature li {
+	position: relative;
+	z-index: 3;
 }
 
 .ui-state-default, .ui-widget-content .ui-state-default, .ui-widget-header .ui-state-default {
